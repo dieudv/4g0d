@@ -9,6 +9,8 @@
 
 ## Cài đặt
 
+Khi cài đặt, bạn cần kết nối mạng bình thường.
+
 **Copy, dán mã sau vào Termux và nhấn enter:**
 
     pkg upgrade -y && pkg install wget -y && \
@@ -19,7 +21,11 @@
     echo 'PATH="$PATH:$HOME/4g0d"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd
 
 Trong quá trình chạy, nếu nó có hỏi gì thì nhấn enter hết nhé.
-    
+
+<p align="center">
+    <img src="https://github.com/dieudv/4g0d/assets/12602709/4fc9b88f-33c2-429a-9370-06bd3c635a89" alt="drawing" width="32%"/>
+</p>
+
 ## Cấu hình & cách dùng
 
 ### Cấu hình SocksDroid:
@@ -30,8 +36,16 @@ Bật các mục: `Connect on Boot`, `Pre-app proxy`, `Bypass Mode`.
 
 App List điền: `com.termux`
 
-Xong thì gạt nút ở trên thanh tiêu đề để bật SocksDroid.
-    
+Xong thì gạt nút ở trên thanh tiêu đề để bật SocksDroid.    
+
+<p align="center">
+<img src="https://github.com/dieudv/4g0d/assets/12602709/8059213a-b814-4438-af06-00d52d6d7b14" alt="drawing" width="32%"/><img src="https://github.com/dieudv/4g0d/assets/12602709/a3d5de23-2d44-4c96-9911-0bf90cb80c0c" alt="drawing" width="32%"/>
+</p>
+
 ### Cách dùng:
 
-Mở Termux và gõ `4g` và nhấn enter để bắt đầu sử dụng
+Mở Termux và gõ `4g` và nhấn enter để bắt đầu sử dụng. Termux hiện thị dòng chữ màu vàng Connected là ok.
+
+<p align="center">
+    <img src="https://github.com/dieudv/4g0d/assets/12602709/bf08b296-7383-4a15-a016-653de0bbece7" alt="drawing" width="32%"/><img src="https://github.com/dieudv/4g0d/assets/12602709/e0d0aa8b-12fe-482a-b736-b11f14edc96a" alt="drawing" width="32%"/>
+</p>
