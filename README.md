@@ -1,5 +1,8 @@
 ﻿# 4G 0đ với Termux và SocksDroid trên Android
 
+ - Ưu điểm: Hoàn toàn miễn phí, không tốn một đồng
+ - Nhược điểm: Mạng không ổn định, dùng lướt web, xem maps, không thích hợp để chơi game.
+
 ## Yêu cầu
 
 **Sử dụng Android và cài 2 ứng dụng sau:**
